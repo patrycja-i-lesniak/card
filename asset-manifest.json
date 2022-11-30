@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78292e3d.css",
+    "main.js": "/static/js/main.e05774c3.js",
+    "static/js/787.4b846e2a.chunk.js": "/static/js/787.4b846e2a.chunk.js",
+    "static/media/sequoia.jpeg": "/static/media/sequoia.81c8407a556f6296326e.jpeg",
+    "index.html": "/index.html",
+    "main.78292e3d.css.map": "/static/css/main.78292e3d.css.map",
+    "main.e05774c3.js.map": "/static/js/main.e05774c3.js.map",
+    "787.4b846e2a.chunk.js.map": "/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78292e3d.css",
+    "static/js/main.e05774c3.js"
+  ]
+}
